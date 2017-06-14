@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Exmaples H</string>
+    <string name="service_description">My Exmaples H started service example</string>
+    <string name="my_process">MyProcess</string>
+</resources>
